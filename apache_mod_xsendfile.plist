@@ -1,0 +1,22 @@
+<plist version="1.0">
+<array>
+<dict>
+        <key>OpenSourceProject</key>
+        <string>apache_mod_xsendfile</string>
+        <key>OpenSourceVersion</key>
+        <string>0.9</string>
+        <key>OpenSourceURL</key>
+        <string>http://tn123.ath.cx/mod_xsendfile/</string>
+        <key>OpenSourceSHA1</key>
+        <string>081af9fa65a4ff97187eb24c2dcc75b7cabffffa</string>
+        <key>OpenSourceImportDate</key>
+        <string>2008-08-20</string>
+        <key>OpenSourceModifications</key>
+        <array/>
+        <key>OpenSourceLicense</key>
+        <string>Apache</string>
+        <key>OpenSourceLicenseFile</key>
+        <string>apache_mod_xsendfile.txt</string>
+</dict>
+</array>
+</plist>
